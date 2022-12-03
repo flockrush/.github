@@ -1,8 +1,6 @@
 ## Flockrush empowers you to increase your wins.
 
-At Flockrush, we believe that what matters most are your decisions.
-
-We help you make smarter decisions
+We help you make smarter decisions.
 
 A.L.I.A.® **A**rtificial **L**ife **I**n **A**ction.
 Making-It-Easier® 
