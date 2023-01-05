@@ -1,6 +1,6 @@
 ## Flockrush empowers you to make smarter decisions.
 
-A.L.I.A.® **A**rtificial **L**ife **I**n **A**ction.
+A.L.I.A.® **A**rtificial **L**ife **I**n **A**ction®
 Making-It-Easier® 
 
 Our goal is to help quicken the iteration cycles in healthcare research and development through the use of general artificial intelligence, focusing on fast ideation and fast validation through simulation.
