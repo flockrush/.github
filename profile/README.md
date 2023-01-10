@@ -9,6 +9,6 @@ Making-It-Easier®
 Make Smarter Decisions®
 
 by Surfable Inc.
-Making life surfable.
+Making life surfable®
 
 We are supportive, we don't take things too seriously, and we have a single-minded focus to be "Fast".
