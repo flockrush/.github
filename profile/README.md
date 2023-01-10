@@ -6,6 +6,7 @@ Self-configuring, self-organizing, and self-healing.
 ![8e243b96-c882-441b-9a58-e869ff896b0d_original (2)](https://user-images.githubusercontent.com/13509246/205417366-e933e65e-3d1c-4a03-b1ec-784b81df68fb.png)
  **A**rtificial **L**ife **I**n **A**ction®
 Making-It-Easier®
+Make Smarter Decisions®
 
 by Surfable Inc.
 Making life surfable.
