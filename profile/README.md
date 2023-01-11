@@ -2,13 +2,16 @@
 
 <img width="208" alt="Screen Shot 2023-01-11 at 10 45 43 AM" src="https://user-images.githubusercontent.com/64109384/211851312-9a08bf68-0b6e-4a27-8650-1c0c7897e178.png">
 
-Employ AI to analyze streaming data in real-time to automate processes and generate new value.
+A.L.I.A® Artificial Intelligence can help you reach your goals faster.
 
-Automation using AI enables the replacement of human labor with machines, allowing for the reallocation of human resources towards tasks that are more challenging to automate, allowing for business scalability.
 
-Creating new value through AI can be achieved by introducing unique product features and other innovations. Despite its ability to automate and create value, AI differs greatly from traditional system programming techniques. At Flockrush, we are committed to helping you navigate this transformative period and accelerate transformation powered by AI for your enterprise.
+Employ A.L.I.A® to analyze streaming data in real-time to automate processes and generate new value.
 
-Flockrush's A.L.I.A is a telco-grade AI as a service solution, with a requirement for 99.999% availability, meaning that it should have a maximum of five minutes of downtimes in a year, inclusive of maintenance and upgrade time.
+Automation using A.L.I.A® enables the replacement of human labor with machines, allowing for the reallocation of human resources towards tasks that are more challenging to automate, allowing for business scalability.
+
+Creating new value through A.L.I.A® can be achieved by introducing unique product features and other innovations. Despite its ability to automate and create value, AI differs greatly from traditional system programming techniques. At Flockrush, we are committed to helping you navigate this transformative period and accelerate transformation powered by AI for your enterprise.
+
+Flockrush's A.L.I.A® is a telco-grade AI as a service solution, with a requirement for 99.999% availability, meaning that it should have a maximum of five minutes of downtimes in a year, inclusive of maintenance and upgrade time.
 
 A.L.I.A® Zero Touch® Self-organizing, self-configuring, and self-healing AI.
 
