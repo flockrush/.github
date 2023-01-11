@@ -1,4 +1,4 @@
-## Flockrush: AI for better and faster predictions 
+## Flockrush: AI for better and faster predictions®
 
 A.L.I.A.® Zero Touch®
 
