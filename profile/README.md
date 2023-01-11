@@ -11,6 +11,8 @@ Creating new value through AI can be achieved by introducing unique product feat
 Flockrush's A.L.I.A is a telco-grade AI as a service solution, with a requirement for 99.999% availability, meaning that it should have a maximum of five minutes of downtimes in a year, inclusive of maintenance and upgrade time.
 
 A.L.I.A® Zero Touch® Self-organizing, self-configuring, and self-healing AI.
+
+
 ![8e243b96-c882-441b-9a58-e869ff896b0d_original (2)](https://user-images.githubusercontent.com/13509246/205417366-e933e65e-3d1c-4a03-b1ec-784b81df68fb.png)
  **A**rtificial **L**ife **I**n **A**ction®
 Making-It-Easier®
