@@ -1,4 +1,4 @@
-## Flockrush: AI for better and faster predictions®
+## AI for better and faster predictions®
 
 <img width="208" alt="Screen Shot 2023-01-11 at 10 45 43 AM" src="https://user-images.githubusercontent.com/64109384/211851312-9a08bf68-0b6e-4a27-8650-1c0c7897e178.png">
 
