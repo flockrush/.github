@@ -2,7 +2,7 @@
 
 <img width="208" alt="Screen Shot 2023-01-11 at 10 45 43 AM" src="https://user-images.githubusercontent.com/64109384/211851312-9a08bf68-0b6e-4a27-8650-1c0c7897e178.png">
 
-Employ AI to predict on real-time streaming data for automation and new value creation.
+Employ AI to analyze streaming data in real-time to automate processes and generate new value.
 
 Automation using AI enables the replacement of human labor with machines, allowing for the reallocation of human resources towards tasks that are more challenging to automate, allowing for business scalability.
 
