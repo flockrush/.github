@@ -6,7 +6,7 @@ With the global increase in connected devices, expected to reach over 30.9 billi
 
 Telecommunications companies that effectively implement AI infrastructure and capabilities will gain a competitive advantage. The challenge of dispersed data in the industry makes it necessary for telcos to have an AI strategy that connects all customer behavior and device signals in real-time to ensure better predictions.
 
-Flockrush, a pioneer in the fast-evolving AI field with deep telecom knowledge, offers A.L.I.A® - AI for Better and Faster Predictions® - a comprehensive AIOps solution that seamlessly integrates all customer and device data from OSS, BSS, and NML layers in real-time, resulting in fast actionable predictions that improve customer experience, optimize operations, generate revenue through new or renewed business.
+Flockrush, a pioneer in the fast-evolving AI field with deep telecom knowledge, offers A.L.I.A® - AI for Better and Faster Predictions® - a comprehensive AIOps solution that seamlessly integrates all customer and device data from OSS, BSS, and NML layers in real-time, resulting in fast actionable predictions that improve customer experience, optimize operations, and generate revenue through new or renewed business.
 
 Creating new value through A.L.I.A® can be achieved by introducing unique product features and other innovations. Despite its ability to automate and create value, AI differs greatly from traditional system programming techniques. At Flockrush, we are committed to helping you navigate this transformative period and accelerate transformation powered by AI for service providers.
 
