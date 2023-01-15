@@ -10,7 +10,7 @@ Flockrush, a pioneer in the fast-evolving AI field with deep telecom knowledge, 
 
 Creating new value through A.L.I.A® can be achieved by introducing unique product features and other innovations. Despite its ability to automate and create value, AI differs greatly from traditional system programming techniques. At Flockrush, we are committed to helping you navigate this transformative period and accelerate transformation powered by AI for service providers.
 
-Flockrush's A.L.I.A® is a telco-grade AI as a service solution, with a requirement for 99.999% availability, meaning that it should have a maximum of five minutes of downtimes in a year, inclusive of maintenance and upgrade time. A.L.I.A® is designed to be Zero Touch® - a self-organizing, self-configuring, and self-healing Artificial Intelligence, which is also constructed with open and adaptable technology, thus avoiding vendor lock-in.
+Flockrush's A.L.I.A® is a telco-grade AI as a service solution, cloud and on-premise integration, with a requirement for 99.999% availability, meaning that it should have a maximum of five minutes of downtimes in a year, inclusive of maintenance and upgrade time. A.L.I.A® is designed to be Zero Touch® - a self-organizing, self-configuring, and self-healing Artificial Intelligence, which is also constructed with open and adaptable technology, thus avoiding vendor lock-in.
 
 AI for better and faster predictions®
 
