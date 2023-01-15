@@ -1,2 +1,2 @@
 # .github
-Make Smarter Decisions
+AI for better and faster predictions®
